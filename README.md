@@ -1,2 +1,2 @@
-# - Tiago Borges - Brag-Document
+# Tiago Borges - Brag Document
 Space to organize academic goals and achievements.
